@@ -14,6 +14,8 @@ categories:
 
     到[node-sass的npm首页](https://www.npmjs.com/package/node-sass)查看版本对应
 
+    {% asset_img node-sass-version.png %}
+
 - ##### binding.node下载失败
 
     node-sass会下载二进制文件binding.node，默认源是github，需要修改变量sass_binary_site
